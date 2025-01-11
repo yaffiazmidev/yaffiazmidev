@@ -2,6 +2,7 @@
 
 ###
 
+[![Profile views](https://komarev.com/ghpvc/?username=yaffiazmidev)](https://github.com/yaffiazmidev)
 <h2 align="left">Hello World!, I'm Azmi, a Indonesia iOS Developer 👋🏼</h2>
 
 ###
