@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨🏼‍💻 working as a iOS developer since 2018<br>Part of [Funios Community](https://github.com/Funios-community)<br></p>
+👨🏼‍💻 working as a iOS developer since 2018 <br>Part of [Funios Community](https://github.com/Funios-community)
 
 ###
 
